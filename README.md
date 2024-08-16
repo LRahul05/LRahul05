@@ -33,7 +33,6 @@ Resume [https://drive.google.com/file/d/1I7m-Drh8er0_kWOjwCGqRZvrbVUqzlgd/view?u
     <a href="https://"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></a>
-    
     <a href="https://"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></a>
 </div>
 
