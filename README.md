@@ -43,3 +43,8 @@ ___
 <a href="https://www.linkedin.com/in/rahul-l-a76437227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul L" height="30" width="40" /></a>
 </p>
 </div>
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)</center>
+
+<details>
+<summary><strong>More info..</strong></summary>
