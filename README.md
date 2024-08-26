@@ -44,7 +44,5 @@ ___
 </p>
 </div>
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)</center>
-
-<details>
-<summary><strong>More info..</strong></summary>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
