@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
     
-<h1 align="left">Hi, I'm Rahul L</h1>
+<h1 align="left">Hey, I'm Rahul L</h1>
 
 <h3 align="left">I'm passionate about programming and technology!</h3>
 
