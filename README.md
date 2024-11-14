@@ -8,7 +8,7 @@
 
 
 
-Resume [https://drive.google.com/file/d/1I7m-Drh8er0_kWOjwCGqRZvrbVUqzlgd/view?usp=sharing](https://drive.google.com/file/d/1I7m-Drh8er0_kWOjwCGqRZvrbVUqzlgd/view?usp=sharing)
+Resume [https://drive.google.com/file/d/1ejyVzvACcF1OOj5un5CrL_AIVDciAFh_/view?usp=drive_link](https://drive.google.com/file/d/1ejyVzvACcF1OOj5un5CrL_AIVDciAFh_/view?usp=drive_link)
 
 
 
