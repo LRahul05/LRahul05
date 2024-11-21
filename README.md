@@ -1,4 +1,4 @@
-<img align="right" src="https://www.providenceclassicalchristian.org/learning-from-my-mistakes/" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://www.providenceclassicalchristian.org/wp-content/uploads/2022/09/image-2.png" alt="Illustration" title="Illustration Storyset" width=450/>
     
 <h1 align="left">Hey, I'm Rahul L</h1>
 
